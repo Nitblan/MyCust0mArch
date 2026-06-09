@@ -22,7 +22,6 @@ Una guía técnica integral que documenta el proceso completo de instalación, c
 </p>
 
 ---
----
 
 ## Descripción General
 
