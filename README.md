@@ -1,7 +1,27 @@
 # Manual de Instalación y Personalización de Arch Linux desde VMware
 
 Una guía técnica integral que documenta el proceso completo de instalación, configuración y personalización avanzada de Arch Linux utilizando BSPWM, Kitty, NvChad, Zsh y herramientas modernas de gestión de paquetes como Pacman, Yay y Paru.
+---
 
+## Capturas del Entorno
+
+<p align="center">
+  <img src="Assets/screenshots/Captura%201.png" alt="Captura 1">
+</p>
+
+<p align="center">
+  <img src="Assets/screenshots/Captura%202.png" alt="Captura 2">
+</p>
+
+<p align="center">
+  <img src="Assets/screenshots/Captura%203.png" alt="Captura 3">
+</p>
+
+<p align="center">
+  <img src="Assets/screenshots/Captura%204.png" alt="Captura 4">
+</p>
+
+---
 ---
 
 ## Descripción General
